@@ -7,7 +7,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
       </element>
-      <element id="file-copy" path="$PROJECT_DIR$/../ItemControl/defaultConfig.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/defaultConfig.yml" />
     </root>
   </artifact>
 </component>
