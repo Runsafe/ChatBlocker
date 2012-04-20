@@ -1,0 +1,5 @@
+# default config.yml
+
+suppressChat: false
+suppressJoins: false
+suppressQuits: false
