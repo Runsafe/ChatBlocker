@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ChatBlocker">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatBlocker</output-path>
+    <root id="archive" name="ChatBlocker.jar">
+      <element id="module-output" name="ChatBlocker" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

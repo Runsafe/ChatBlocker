@@ -1,0 +1,5 @@
+name: ChatBlocker
+main: no.runsafe.chatblocker.ChatBlocker
+version: 1.0
+author: Kruithne
+description: Allows on the fly blocking of chat to deal with spam attacks
