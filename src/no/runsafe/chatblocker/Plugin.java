@@ -9,7 +9,7 @@ import java.io.InputStream;
 public class Plugin extends RunsafeConfigurablePlugin
 {
 	@Override
-	protected void PluginSetup()
+	protected void pluginSetup()
 	{
 		this.addComponent(PlayerEvents.class);
 	}
